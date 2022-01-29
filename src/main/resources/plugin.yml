@@ -1,0 +1,4 @@
+name: stamina
+version: '${project.version}'
+main: kr.kro.habaek.stamina.Stamina
+api-version: 1.17
